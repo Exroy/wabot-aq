@@ -20,10 +20,10 @@ runtime = process.uptime()
 teks = `${kyun(runtime)}`
 run = `${kyun(runtime)}`
 
-global.owner = ['7922416516']// Put your number here
+global.owner = ['085850539404']// Put your number here
 
 global.mods = [] // Want some help?
-global.prems = [] // Premium user has unlimited limit
+global.prems = [085850539404] // Premium user has unlimited limit
 global.APIs = { // API Prefix
   // name: 'https://website'
   nrtm: 'https://nurutomo.herokuapp.com',
